@@ -1,0 +1,48 @@
+# Site settings
+title: George Booth
+description: > # this means to ignore newlines until "baseurl:" Will be needed for google searching
+  George Booth Research Group at Kings College London for
+  Development of Novel Computational Electronic Structure Approaches
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:4000" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+github_username:  ghb24
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'George Booth'
+  email: george.booth@kcl.ac.uk
+#  twitter_username: joshgerdes
+#  facebook_username: joshgerdes
+  github_username:  ghb24
+#  linkedin_username:  joshgerdes
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+# Build settings
+#sass:
+#  sass_dir: _sass
+# so that custom pages will be organized in their own directory
+include: ['_pages']
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
