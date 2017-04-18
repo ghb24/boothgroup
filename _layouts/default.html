@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-  {% include head.html %}
+  {% include head.html  | prepend: site.baseurl  %}
 
   <body>
 
-    {% include sidebar.html %}
+    {% include sidebar.html | prepend: site.baseurl %}
 
     <div class="content container">
       {{ content }}
