@@ -15,6 +15,7 @@ title:      Booth Group
 description:      "A Research Group at King's College London in Computational Electronic Structure"
 url:              ''
 baseurl:          /boothgroup/
+baseurlshort:          /boothgroup
 
 author:
   name:           'George Booth'
