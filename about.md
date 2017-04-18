@@ -1,30 +1,33 @@
 ---
 layout: page
 title: About
+order: 2
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Research in the Booth group focuses on *developing*, *implementing* and *applying* new computational techniques for the study of many-body physics -- specifically trying to understand **correlated electron systems**. These systems range from small astrochemical molecules, to exotic condensed matter, and much more. But why is this important...?
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+The interactions between electrons and nuclei provide the glue that binds together all materials. The specifics of these interactions give rise to the vast array of different properties around us, ranging from metallic behaviour, to catalytic biomolecules or magnetic interactions. However, while it is now common to design large-scale engineering projects from buildings to planes with accurate computational simulation, it is curious that the techniques for microscopic simulations of the interactions of these most fundamental particles is still very much lacking. This is true to such an extent that many physical properties of materials cannot be predicted computationally from their underlying constituents with current techniques. This may not be such a problem if experiments could answer all questions about physical processes and mechanisms, but increasingly it is important to also use computational modelling as a complementary approach to guide experimental work and provide access to quantities and insight that is hard or impossible to probe by experimental means.
 
-There are currently two themes built on Poole:
+Research in my group concerns the development of novel computational methods to accurately simulate these many strongly interacting particles. The techniques draw on inspiration from approaches in both physics and chemistry to target specific classes of system, as well as development of efficient algorithms for their implementation. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+<!--
+In contrast to the ubiquitous density functional theory, a key feature is that of systematic improvability – the desire for exact limits to the techniques that are guaranteed to reproduce the exact physics of the system. This limit can then theoretically be approached to improve the description of the system allowing for the correct physical processes to emerge naturally from the calculations. This is required for many systems where density functional theory simply cannot provide the accuracy for predictive results in the presence of strong quantum fluctuations.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Examples of methods developed include Quantum Monte Carlo approaches, Quantum cluster models, tensor networks and perturbative approaches. These are then applied to outstanding unsolved problems of electronic structure in diverse fields, spanning ab initio molecular and solid state problems, surfaces and reaction centers of organometallic compounds, and quantum magnetism in lattice models of cuprate superconductors. The interest in the electronic structure of these systems spans ground state, static quantities, as well as spectral and thermal states, to provide access to a range of observable properties.
+-->
 
-## Setup
+We are based in the physics department at King's College London.
 
-Some fun facts about the setup of this project include:
+An overview of our publications can be found at [Google Scholar](https://scholar.google.co.uk/citations?user=nL4WtEoAAAAJ&hl=en)
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+## Contact
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Dr George Booth
+Department of Physics
+King's College London
+Strand
+WC2R 2LS
 
-Thanks for reading!
++44 207 848 7077
+
+For any enquiries, please contact George at [george.booth 'at' kcl.ac.uk](mailto:george.booth@kcl.ac.uk).

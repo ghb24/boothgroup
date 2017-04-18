@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+order: 4
 ---
 
 <p class="message">
@@ -10,3 +11,4 @@ title: Research
 * QMC 
 * Greens functions 
 
+Include selected publications, and link to google scholar

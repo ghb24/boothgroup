@@ -1,5 +1,8 @@
 # Dependencies
-markdown:         redcarpet
+#markdown:         redcarpet
+markdown: kramdown
+kramdown:
+  input: GFM
 highlighter:      pygments
 
 # Permalinks
@@ -9,7 +12,7 @@ relative_permalinks: true
 # Setup
 title:      Booth Group
 # tagline:          "Website for the Research Group of George Booth at King's College London for Computational Electronic Structure"
-description:      "Research Group at King's College London for Computational Electronic Structure"
+description:      "A Research Group at King's College London in Computational Electronic Structure"
 url:              ''
 baseurl:          /
 
