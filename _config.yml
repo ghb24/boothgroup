@@ -5,9 +5,10 @@ kramdown:
   input: GFM
 highlighter:      pygments
 
-# Permalinks
+## Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true
+gems: [jekyll-paginate]
 
 # Setup
 title:      Booth Group
