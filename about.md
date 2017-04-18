@@ -22,11 +22,7 @@ An overview of our publications can be found at [Google Scholar](https://scholar
 
 ## Contact
 
-Dr George Booth
-Department of Physics
-King's College London
-Strand
-WC2R 2LS
+Dr George Booth <br /> Department of Physics <br /> King's College London <br /> Strand <br /> WC2R 2LS
 
 +44 207 848 7077
 
