@@ -17,8 +17,7 @@ Examples of methods developed include Quantum Monte Carlo approaches, Quantum cl
 -->
 
 We are based in the physics department at King's College London.
-
-An overview of our publications can be found at [Google Scholar](https://scholar.google.co.uk/citations?user=nL4WtEoAAAAJ&hl=en)
+Map and picture
 
 ## Contact
 

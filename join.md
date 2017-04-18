@@ -21,6 +21,6 @@ If you feel qualified to apply for these (or other) schemes, please [contact me]
 
 ## PhD positions
 
-While there are no PhD vacancies on specific funding, there are always a number of departmental awards which can be made. See the [departmental pages](http://www.kcl.ac.uk/nms/depts/physics/Prospective%20Students/PhdResearchDegrees/index.aspx) for more details on the application procedure.
+While there are no PhD vacancies on specific funding, there are always a number of departmental awards which can be applied for. See the [departmental pages](http://www.kcl.ac.uk/nms/depts/physics/Prospective%20Students/PhdResearchDegrees/index.aspx) for more details on the application procedure.
 
 Another route for funded PhD studentships in the group (or more generally at King's) is via our Centre for Doctoral Training on [*Cross-disciplinary approaches to non-equilibrium systems*](http://www.kcl.ac.uk/innovation/groups/noneqsys/index.aspx) (CANES).

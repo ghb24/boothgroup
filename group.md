@@ -15,3 +15,8 @@ Dr George Booth joined King’s College London in October 2014 as a Royal Societ
 ## Max Nusspickel
 
 ## Christopher Orthodoxou
+
+## Former/Affiliated Students
+
+ * Lauretta Schwarz [Currently at University of Cambridge]
+ * Nick Blunt [Now at UC Berkeley]

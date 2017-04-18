@@ -12,3 +12,5 @@ order: 4
 * Greens functions 
 
 Include selected publications, and link to google scholar
+
+An overview of our publications can be found at [Google Scholar](https://scholar.google.co.uk/citations?user=nL4WtEoAAAAJ&hl=en)
